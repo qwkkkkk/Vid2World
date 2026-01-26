@@ -24,7 +24,9 @@ Give it a star 🌟 if you find our work useful!
 
 
 ## 🔥 News & Updates
- - 🚩 **2025-12:** We release all model checkpoints on 🤗 [Huggingface](https://huggingface.co/collections/thuml/vid2world). 
+- 🚩 **2026-01:** Vid2World has been accepted by **ICLR 2026**, congrats! 
+
+- 🚩 **2025-12:** We release all model checkpoints on 🤗 [Huggingface](https://huggingface.co/collections/thuml/vid2world). 
 
 - 🚩 **2025-12:** We release code for training, inference and evaluation.
 
