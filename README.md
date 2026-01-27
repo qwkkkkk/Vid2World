@@ -1,4 +1,4 @@
-<h1> <img src="./assets/logo.png" width="35px"> Vid2World: Crafting Video Diffusion Models to Interactive World Models </h1>
+<h1> <img src="./assets/logo.png" width="35px"> Vid2World: Crafting Video Diffusion Models to Interactive World Models (ICLR 2026) </h1>
 
 <a href="https://arxiv.org/abs/2505.14357">
     <img src="https://img.shields.io/badge/paper-arXiv%3A2505.14357-b31b1b.svg" alt="arXiv Paper"/>
